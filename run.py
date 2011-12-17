@@ -2,7 +2,6 @@
 
 import sys
 from time import sleep
-from urlparse import parse_qsl
 
 from config import *
 from weibopy.auth import OAuthHandler
